@@ -1,0 +1,44 @@
+.content{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin: 92px auto;
+    width: calc(100% - 296px);
+}
+
+.content__title{
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 58px;
+    margin: 0;
+    width: 830px;
+    text-align: left;
+}
+
+.content__quote{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    width: 738px;
+    margin: 39.98px auto 10px 0;
+}
+
+.content__quote-cite{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: right;
+    width: 732px; 
+}
+
+.content__description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.08px;
+    text-align: left;
+    width: 722px;
+    margin: 31.99px auto 0 0;
+
+}
