@@ -1,9 +1,9 @@
-.photo-grid__section{
+.photo-grid{
     width: 95%;
     margin: 118px auto 92px;
 }
 
-.photo-grid{
+.photo-grid__gallery{
     width: 100%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
