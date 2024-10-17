@@ -1,4 +1,4 @@
-.section__photo-grid{
+.photo-grid__section{
     width: 95%;
     margin: 118px auto 92px;
 }
@@ -11,7 +11,7 @@
     gap: 16px;
 }
 
-.gallery__image{
-    height: 284px;
-    width: 213px;
+.photo__gallery__image{
+    height: 213px;
+    width: 284px;
 }
