@@ -3,7 +3,15 @@
     justify-content: start;
     align-items: start;
     flex-direction: column;
-    margin: 92px auto;
+    margin: 92px auto 90px;
+}   
+
+.content__section{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin: 0 auto;
     width: calc(100% - 296px);
 }
 

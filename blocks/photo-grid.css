@@ -1,0 +1,17 @@
+.section__photo-grid{
+    width: 95%;
+    margin: 118px auto 92px;
+}
+
+.photo-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.gallery__image{
+    height: 284px;
+    width: 213px;
+}
